@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HearMe</string>
+    <string name="view_description"> يمكنك معاينةواضافة عنصر الي القائمة من خلال اختيار الصورة وصوت من جهازك </string>
+    <string name="add_new_photo">اضافة صورة</string>
+    <string name="add_new_sound">اضافة صوت</string>
+    <string name="submit">اضافه</string>
+</resources>
