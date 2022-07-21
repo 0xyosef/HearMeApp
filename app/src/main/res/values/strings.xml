@@ -4,4 +4,7 @@
     <string name="add_new_photo">اضافة صورة</string>
     <string name="add_new_sound">اضافة صوت</string>
     <string name="submit">اضافه</string>
+    <string name="read_permisstion_needed_to_access_file">صلاحيه الوصول الي الملفات مطلوبه لقراءة الصور والصوت من جهازك</string>
+    <string name="select_picture">اختار صوره</string>
+    <string name="error_selecting_photo">لم نتمكن من الوصول الي الصوره</string>
 </resources>
