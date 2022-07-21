@@ -53,7 +53,7 @@ public class AddNewPhotoActivity extends AppCompatActivity {
     }
     private void addSound(){
         Toast.makeText(AddNewPhotoActivity.this, "Select Sound", Toast.LENGTH_SHORT).show();
-
+//
     }
     private void submit(){
         Toast.makeText(AddNewPhotoActivity.this, "Submit", Toast.LENGTH_SHORT).show();
